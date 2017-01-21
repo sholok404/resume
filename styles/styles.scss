@@ -1,0 +1,65 @@
+$peter-river:#3498db;
+$belize-hole:#2980b9;
+$wet-asphalt:#34495e;
+$midnight-blue:#2c3e50;
+$whitish:#ecf0f1;
+$silver:#bdc3c7;
+
+
+a {
+  color: $whitish;
+}
+a:hover {
+  color: $silver;
+}
+a:active {
+  color: $silver;
+}
+a:visited {
+  color: $wet-asphalt;
+}
+
+.navbar {
+  background-color: $belize-hole;
+  padding-right: 15px;
+  margin-bottom: 0;
+  border-radius: 0;
+
+}
+
+body {
+  padding-top: 50px;
+  font-size: 20px;
+}
+
+footer {
+  background-color: $belize-hole;
+  padding: 25px;
+}
+.profile {
+  float: right;
+}
+
+#about {
+  width: 40%;
+  margin-bottom: 50px;
+  width: 35%;
+  margin: auto;
+
+  #about-profile {
+    width: 50%;
+    display: block;
+    float: none;
+    margin: 0 auto;
+  }
+}
+
+.big {
+  font-size: 3em;
+  font-weight: bold;
+}
+
+#home {
+  background-color: $belize-hole;
+  color: $whitish;
+}

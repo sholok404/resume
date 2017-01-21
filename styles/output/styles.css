@@ -1,0 +1,49 @@
+a {
+  color: #ecf0f1; }
+
+a:hover {
+  color: #bdc3c7; }
+
+a:active {
+  color: #bdc3c7; }
+
+a:visited {
+  color: #34495e; }
+
+.navbar {
+  background-color: #2980b9;
+  padding-right: 15px;
+  margin-bottom: 0;
+  border-radius: 0; }
+
+body {
+  padding-top: 50px;
+  font-size: 20px; }
+
+footer {
+  background-color: #2980b9;
+  padding: 25px; }
+
+.profile {
+  float: right; }
+
+#about {
+  width: 40%;
+  margin-bottom: 50px;
+  width: 35%;
+  margin: auto; }
+  #about #about-profile {
+    width: 50%;
+    display: block;
+    float: none;
+    margin: 0 auto; }
+
+.big {
+  font-size: 3em;
+  font-weight: bold; }
+
+#home {
+  background-color: #2980b9;
+  color: #ecf0f1; }
+
+/*# sourceMappingURL=styles.css.map */
