@@ -46,6 +46,10 @@ footer {
   width: 35%;
   margin: auto;
 
+  #hidden-about {
+    display: none;
+  }
+
   #about-profile {
     width: 50%;
     display: block;
@@ -62,4 +66,13 @@ footer {
 #home {
   background-color: $belize-hole;
   color: $whitish;
+}
+
+@media (max-width: 560px) {
+  #about-text {
+    display: none;
+  }
+  #hidden-about {
+    display: block !important;
+  }
 }
