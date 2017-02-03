@@ -48,7 +48,7 @@ footer {
   background-color: #2980b9;
   color: #ecf0f1; }
 
-@media (max-width: 560px) {
+@media (max-width: 640px) {
   #about-text {
     display: none; }
 
