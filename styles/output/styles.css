@@ -53,6 +53,9 @@ footer {
     display: none; }
 
   #hidden-about {
-    display: block !important; } }
+    display: block !important; }
+
+  #about {
+    width: 100%; } }
 
 /*# sourceMappingURL=styles.css.map */
